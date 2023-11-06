@@ -6,7 +6,9 @@
 <li>Tenho <strong>inglês</strong> intermediário.</li> 
 <li>Amo assistir One Piece</li>
 </ul>
-<img src="./src/imagens/one-piece.gif" alt="Gif One Piece" title="One Piece style" style ="width: 300px; margin-top:10px; margin-left:40px;">
+<div>
+    <img src="./src/imagens/one-piece.gif" alt="Gif One Piece" title="One Piece style" style ="width: 300px; margin-top:10px; margin-left:40px;">
+</div>
 
 <h1 align="center">Estudando agora</h1>
 <div align="center" >
