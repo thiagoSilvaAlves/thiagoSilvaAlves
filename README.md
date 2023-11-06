@@ -5,13 +5,13 @@
 <li>🚀 Tenho comhecimento em programação com <strong>HTML, CSS,JavaScript, vesionamento de código com Git/GitHub.</strong></li>
 <li>Tenho <strong>inglês</strong> intermediário.</li> 
 <li>Amo assistir One Piece</li>
-<li style="list-style-type:none; margin:-20px; margin-bottom:10px;"><img src="./src/imagens/one-piece.gif" alt="Gif One Piece" title="One Piece" style ="width: 300px; margin-top:32px;"> </li></li>
 </ul>
+<img src="./src/imagens/one-piece.gif" alt="Gif One Piece" title="One Piece style" style ="width: 300px; margin-top:10px; margin-left:40px;">
 
 <h1 align="center">Estudando agora</h1>
 <div align="center" >
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:5px; margin-bottom: 0px; background-color:#ffff; border-radius:20px;" />
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:5px; margin-bottom: 0px;" />
  
 <h1 style="margin-top:25px;"> 💻 Minha Stack:</h1>
 
