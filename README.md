@@ -1,4 +1,6 @@
-<h1> 💫 Sobre mim</h1>
+<h1 align="center"> ✨ Sobre mim</h1>
+<h3>Hello World! 😝</h3>
+<img style="width:250px; height:160px;" src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/kitten_laptop.gif" alt="gatinho fofo codando">
 <ul>
 <li> Fissurado por programação 👾, um amante de animes, gamer 🎮.</li>
 <li> 💻 Estudo no <a href="https://www.instagram.com/devemdobro/" target="_blank">DevQuest</a></li>
@@ -7,9 +9,7 @@
 <li>💖 Amo assistir One Piece</li>
 </ul>
 
-<p align="center">
-    <img style="width:350px; height:160px;"src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif" alt="Tripulção dos Chapéus de Palha">
-</p>
+<img style="width:350px; height:160px;" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif" alt="Tripulção dos Chapéus de Palha">
 
 <h1 align="center">Estudando agora</h1>
 <div align="center" >
@@ -22,8 +22,10 @@
 
 <h1 style="margin-top:30px;">🌐 Social</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_thiagosatsato)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-da-silva-alves/)
+<a href="www.linkedin.com/in/thiago-da-silva-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/_thiagosatsato?igshid=NzZlODBkYWE4Ng==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "https://thiagodevprofissional@gmail.com
+"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h1> 📊 GitHub Stats</h1>
 
