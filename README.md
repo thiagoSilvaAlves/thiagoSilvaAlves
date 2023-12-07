@@ -2,10 +2,14 @@
 <ul>
 <li> Fissurado por programação 👾, um amante de animes, gamer 🎮.</li>
 <li> 💻 Estudo no <a href="https://www.instagram.com/devemdobro/" target="_blank">DevQuest</a></li>
-<li>🚀 Tenho conhecimento em programação com <strong>HTML, CSS, JavaScript, vesionamento de código com Git/GitHub.</strong></li>
+<li>🚀 Tenho conhecimento em programação com <strong>HTML, CSS, JavaScript, versionamento de código com Git/GitHub.</strong></li>
 <li>🔥 Tenho <strong>inglês</strong> intermediário.</li> 
 <li>💖 Amo assistir One Piece</li>
 </ul>
+
+<p align="center">
+    <img style="width:350px; height:160px;"src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif" alt="Tripulção dos Chapéus de Palha">
+</p>
 
 <h1 align="center">Estudando agora</h1>
 <div align="center" >
